@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohmmadamin0084
-- 👀 I’m interested in proggraming
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m Mohmmadamin
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning Frontends
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
